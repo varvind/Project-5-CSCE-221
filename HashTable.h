@@ -11,7 +11,7 @@ class HashTable{
 	protected:
 	// helper functions
 	int hash(std::string s); 
-
+	int capacity;
 	// TODO: insert necessary variables for your hash table here
 
 	public: 

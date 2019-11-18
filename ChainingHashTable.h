@@ -1,6 +1,7 @@
 #ifndef CHAINING_H
 #define CHAINING_H
 
+#include <list>
 #include "HashTable.h"
 
 
@@ -8,6 +9,8 @@
 class ChainingHashTable: public HashTable {
     private:
     // TODO: insert additional variables needed here
+    std::list<int>* table;
+
 
     public: 
     ChainingHashTable();
