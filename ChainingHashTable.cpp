@@ -4,7 +4,7 @@
 // constructor (NOTE: graders will use a default constructor for testing)
 ChainingHashTable::ChainingHashTable() {
 	
-	table = new std::list<int>[capacity];
+	table = new std::list<pair>[capacity];
 }
 
 // destructor
@@ -15,11 +15,20 @@ ChainingHashTable::~ChainingHashTable() {
 // inserts the given string key
 void ChainingHashTable::insert(std::string key, int val) {
 	if (table[hash(key)].size() == 0) {
-		std::list<int> temp = {val};
+		pair tempPair;
+		tempPair.key = key;
+		tempPair.val = 1;
+		std::list<pair> temp = {tempPair};
 		table[hash(key)] = temp;
 	}
 	else  {
-		table[hash(key)].push_back(val);
+		int index = hash(key);
+		std::list<pair>::iterator it;
+		for(it = table[index].begin(); it != table[index].end(); it++) {
+			if(it->key == key) {
+				it->val = it->val + 1;
+			}
+		}
 	}
 	
 	
@@ -27,26 +36,24 @@ void ChainingHashTable::insert(std::string key, int val) {
 
 // removes the given key from the hash table - if the key is not in the list, throw an error
 int ChainingHashTable::remove(std::string key) {
-	int value = 0;
-	if(table[hash(key)].size() == 0) {
-		std::cout << "Inesert Exception here" << std::endl;
-		return 0;
- 	}
-	else {
-		value = get(key);
-		table[hash(key)].clear();
+	int index = hash(key);
+	std::list<pair>::iterator it;
+	for(it = table[index].begin(); it != table[index].end(); it++) {
+		if(it->key == key) {
+			table[index].erase(it);
+			break;
+		}
 	}
-	return value;
 }
 
 // getter to obtain the value associated with the given key
 int ChainingHashTable::get(std::string key) {
-	if(table[hash(key)].size() == 0) {
-		std::cout << "Insert Exception here" << std::endl;
-		return 0;
- 	}
-	else {
-		return table[hash(key)].size();
+	int index = hash(key);
+	std::list<pair>::iterator it;
+	for(it = table[index].begin(); it != table[index].end(); it++) {
+		if(it->key == key) {
+			return it->val;
+		}
 	}
 	
 }

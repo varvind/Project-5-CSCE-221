@@ -7,6 +7,10 @@
 #include <stdexcept>
 
 // Chaining hash table class
+struct pair {
+	int val;
+	std::string key;
+};
 class HashTable{
 	protected:
 	// helper functions

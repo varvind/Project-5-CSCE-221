@@ -12,7 +12,7 @@
 class ChainingHashTable: public HashTable {
     private:
     // TODO: insert additional variables needed here
-    std::list<int>* table;
+    std::list<pair>* table;
 
 
     public: 

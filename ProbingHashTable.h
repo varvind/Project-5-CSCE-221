@@ -1,12 +1,13 @@
 #ifndef LINEARPROBING_H
 #define LINEARPROBING_H
 
+#include <list>
 #include "HashTable.h"
 
 // Linear probing hash table class
 class ProbingHashTable : public HashTable {
     private:
-    // TODO: insert additional variables here
+    std::string* table;
 
     public: 
     ProbingHashTable();
