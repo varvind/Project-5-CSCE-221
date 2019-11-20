@@ -1,5 +1,4 @@
 #include "ChainingHashTable.h"
-
 ///////////////////// TODO: FILL OUT THE FUNCTIONS /////////////////////
 
 // constructor (NOTE: graders will use a default constructor for testing)
@@ -15,8 +14,15 @@ ChainingHashTable::~ChainingHashTable() {
 
 // inserts the given string key
 void ChainingHashTable::insert(std::string key, int val) {
-	std::list<int> temp = {val};
-	table[hash(key)] = temp;
+	if (table[hash(key)].size() == 0) {
+		std::list<int> temp = {val};
+		table[hash(key)] = temp;
+	}
+	else  {
+		table[hash(key)].push_back(val);
+	}
+	
+	
 }
 
 // removes the given key from the hash table - if the key is not in the list, throw an error
@@ -35,11 +41,36 @@ int ChainingHashTable::remove(std::string key) {
 
 // getter to obtain the value associated with the given key
 int ChainingHashTable::get(std::string key) {
-
-	return table[hash(key)].size();
+	if(table[hash(key)].size() == 0) {
+		std::cout << "Insert Exception here" << std::endl;
+		return 0;
+ 	}
+	else {
+		return table[hash(key)].size();
+	}
+	
 }
 
 // prints number of occurrances for all given strings to a txt file
 void ChainingHashTable::printAll(std::string filename) {
+	std::string line;
+	std::ifstream myfile (filename);
+	std::vector<std::string> key; 
+	if (myfile.is_open())
+	{
+		while ( getline (myfile,line) )
+		{
+			std::string tempKey = line;
+			key.push_back(tempKey);
+			insert(tempKey, 1);
+		}
+		myfile.close();
+	}
+	std::ofstream ofs ("ChainingHash.txt", std::ofstream::out);
 
+	for(int i = 0; i < key.size(); i ++) {
+		ofs << key.at(i) << ": " << get(key.at(i)) << std::endl;
+	}
+	ofs.close();
+	
 }

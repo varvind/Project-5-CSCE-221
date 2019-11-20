@@ -2,6 +2,9 @@
 #define CHAINING_H
 
 #include <list>
+#include <iostream>
+#include <fstream>
+#include <vector>
 #include "HashTable.h"
 
 
