@@ -30,7 +30,7 @@ void ProbingHashTable::insert(std::string key, int val) {
 int ProbingHashTable::remove(std::string key) {
 	if(table[hash(key)] != key) {
 		std::cout << "Write an Exception here Arvind" << std::endl;
-		return;
+		return 0;
 	}
 	else {
 		for(int i = hash(key) ; i < capacity; i++) {
@@ -42,7 +42,7 @@ int ProbingHashTable::remove(std::string key) {
 			}
 		}
 	}
-	
+
 }
 
 // getter to obtain the value associated with the given key

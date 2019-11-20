@@ -40,10 +40,13 @@ int ChainingHashTable::remove(std::string key) {
 	std::list<pair>::iterator it;
 	for(it = table[index].begin(); it != table[index].end(); it++) {
 		if(it->key == key) {
+			int value = it->val;
 			table[index].erase(it);
-			break;
+			return value;
 		}
 	}
+
+	std::cout << "key not found" << std::endl;
 }
 
 // getter to obtain the value associated with the given key
