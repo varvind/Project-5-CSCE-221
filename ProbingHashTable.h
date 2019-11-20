@@ -7,7 +7,7 @@
 // Linear probing hash table class
 class ProbingHashTable : public HashTable {
     private:
-    std::string* table;
+    pair* table;
 
     public: 
     ProbingHashTable();

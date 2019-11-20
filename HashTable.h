@@ -8,8 +8,8 @@
 
 // Chaining hash table class
 struct pair {
-	int val;
-	std::string key;
+	int val = 0;
+	std::string key = "";
 };
 class HashTable{
 	protected:
