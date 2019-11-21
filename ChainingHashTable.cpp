@@ -18,17 +18,22 @@ void ChainingHashTable::insert(std::string key, int val) {
 		pair tempPair;
 		tempPair.key = key;
 		tempPair.val = 1;
-		std::list<pair> temp = {tempPair};
-		table[hash(key)] = temp;
+		
+		table[hash(key)].push_back(tempPair);
 	}
 	else  {
 		int index = hash(key);
 		std::list<pair>::iterator it;
-		for(it = table[index].begin(); it != table[index].end(); it++) {
+		for(it = table[index].begin(); it != table[index].end(); it++) { //loops through to check and see if the key is already in the linked list
 			if(it->key == key) {
 				it->val = it->val + 1;
+				return;
 			}
 		}
+		pair tempPair;
+		tempPair.key = key;
+		tempPair.val = 1;
+		table[index].push_back(tempPair);
 	}
 	
 	
@@ -52,12 +57,15 @@ int ChainingHashTable::remove(std::string key) {
 // getter to obtain the value associated with the given key
 int ChainingHashTable::get(std::string key) {
 	int index = hash(key);
-	std::list<pair>::iterator it;
-	for(it = table[index].begin(); it != table[index].end(); it++) {
-		if(it->key == key) {
-			return it->val;
+	if(table[index].size() != 0) {
+		std::list<pair>::iterator it;
+		for(it = table[index].begin(); it != table[index].end(); it++) {
+			if(it->key == key) {
+				return it->val;
+			}
 		}
-	}
+	} 
+	
 	
 }
 
@@ -78,8 +86,11 @@ void ChainingHashTable::printAll(std::string filename) {
 	}
 	std::ofstream ofs ("ChainingHash.txt", std::ofstream::out);
 
-	for(int i = 0; i < key.size(); i ++) {
-		ofs << key.at(i) << ": " << get(key.at(i)) << std::endl;
+	for(int i = 0; i < capacity; i++) {
+		std::list<pair>::iterator it;
+		for(it = table[i].begin(); it != table[i].end(); it++) {
+			ofs << it->key << " " <<it->val << std::endl;
+		}
 	}
 	ofs.close();
 	

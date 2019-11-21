@@ -3,7 +3,7 @@
 
 #include <list>
 #include "HashTable.h"
-
+#include <vector>
 // Linear probing hash table class
 class ProbingHashTable : public HashTable {
     private:

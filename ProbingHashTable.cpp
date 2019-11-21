@@ -69,5 +69,23 @@ int ProbingHashTable::get(std::string key) {
 
 // prints number of occurrances for all given strings to a txt file
 void ProbingHashTable::printAll(std::string filename) {
+	std::string line;
+	std::ifstream myfile (filename);
+	std::vector<std::string> key; 
+	if (myfile.is_open())
+	{
+		while ( getline (myfile,line) )
+		{
+			std::string tempKey = line;
+			key.push_back(tempKey);
+			insert(tempKey, 1);
+		}
+		myfile.close();
+	}
+	std::ofstream ofs ("ProbingHash.txt", std::ofstream::out);
 
+	for(int i = 0; i < key.size(); i ++) {
+		ofs << key.at(i) << ": " << get(key.at(i)) << std::endl;
+	}
+	ofs.close();
 }
