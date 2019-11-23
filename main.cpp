@@ -1,5 +1,6 @@
 #include <iostream>
 #include "ChainingHashTable.h"
+#include "ProbingHashTable.h"
 using namespace std;
 
 
@@ -7,6 +8,6 @@ using namespace std;
 
 
 int main() {
-    ChainingHashTable* test = new ChainingHashTable();
-    test->printAll("dictionary.txt");
+    ProbingHashTable* test = new ProbingHashTable();
+    test->printAll("test.txt");
 }

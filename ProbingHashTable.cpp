@@ -12,29 +12,23 @@ ProbingHashTable::~ProbingHashTable() {
 
 // inserts the given string key
 void ProbingHashTable::insert(std::string key, int val) {
-	int index = hash(key);
-	if(table[index].key == "" ) {
-		pair temp;
-		temp.val = temp.val + 1;
-		temp.key = key;
-
-		table[index] = temp;
-	}
-	else if ( table[index].key == key) { //increments if key matches
-		table[index].val = table[index].val + 1;
-	}
-	else { //if key is hashed to same index as another element, loops until there is an available spot
-		for(int i = index; i < capacity; i++) {
-			if(table[index].key == "") { //signifying that this index in the table is available
-				pair temp;
-				temp.val = temp.val + 1;
-				temp.key = key;
-
-				table[index] = temp;
-				break;
-			}
+	 
+	
+		 
+	for(int i = 0; i < capacity; i++) {
+		int j = (hashProbing(key) + i) % capacity;
+		if(table[j].key == "") {
+			table[j].key = key;
+			table[j].val = 1;
+			break;
+		}
+		if(table[j].key == key) {
+			table[j].val = table[j].val + 1;
+			break;
 		}
 	}
+
+	
 	
 }
 
@@ -84,8 +78,11 @@ void ProbingHashTable::printAll(std::string filename) {
 	}
 	std::ofstream ofs ("ProbingHash.txt", std::ofstream::out);
 
-	for(int i = 0; i < key.size(); i ++) {
-		ofs << key.at(i) << ": " << get(key.at(i)) << std::endl;
+	for(int i = 0; i < capacity; i ++) {
+		if(table[i].key != "") {
+			ofs << table[i].key << ": " << get(table[i].key) << std::endl;
+		}
+		
 	}
 	ofs.close();
 }

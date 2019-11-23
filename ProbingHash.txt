@@ -1,0 +1,4140 @@
+photocopying: 1
+reticulation: 1
+tendentiously: 1
+collaboration: 1
+uninterestedly: 1
+jumpstarting: 1
+mothersinlaw: 1
+algorithmically: 1
+discouragement: 1
+is: 1
+no: 1
+reservations: 1
+condensations: 1
+precipitates: 1
+phosphorescent: 1
+bap: 1
+deb: 1
+dam: 1
+aby: 1
+cat: 1
+boa: 1
+backwards: 2
+cob: 1
+fen: 1
+din: 1
+ego: 1
+gas: 1
+lab: 1
+bub: 1
+gig: 1
+coo: 1
+jap: 5
+mag: 1
+due: 1
+bun: 1
+hew: 1
+hip: 1
+jay: 1
+oaf: 1
+ken: 1
+bus: 1
+cup: 1
+dye: 1
+for: 1
+cur: 1
+law: 2
+duo: 1
+nap: 1
+kin: 1
+got: 1
+hop: 1
+pan: 1
+ins: 1
+repressively: 1
+mod: 1
+pen: 1
+pet: 1
+rem: 1
+lot: 1
+ooh: 1
+ray: 1
+mop: 1
+non: 1
+tat: 1
+rim: 1
+rob: 1
+mrs: 1
+sex: 1
+yea: 1
+tog: 1
+shy: 1
+yap: 1
+way: 1
+pun: 1
+ton: 2
+too: 2
+sly: 1
+run: 1
+backwoods: 1
+wry: 1
+accosting: 1
+affective: 1
+morphologies: 1
+accessible: 1
+bargained: 1
+deadliest: 1
+decimalisation: 2
+ferociousness: 1
+beatitude: 1
+background: 1
+bargepole: 1
+notification: 1
+decanters: 1
+baal: 1
+admission: 1
+affronted: 1
+bale: 1
+bean: 1
+agar: 1
+dado: 2
+dabs: 1
+abundance: 1
+cane: 1
+chad: 1
+beer: 1
+beet: 1
+card: 1
+case: 1
+bell: 1
+dais: 1
+cant: 1
+bass: 1
+fact: 1
+aggrieved: 1
+fake: 1
+bats: 1
+clan: 1
+clef: 1
+defy: 1
+coca: 1
+cine: 1
+bins: 1
+bobs: 1
+flab: 1
+chug: 1
+gaud: 1
+boil: 1
+blackened: 1
+cran: 1
+lade: 1
+coin: 1
+cube: 1
+avid: 1
+boom: 1
+arks: 1
+anus: 2
+done: 1
+bulb: 1
+dogs: 1
+hats: 1
+gobi: 1
+appreciations: 1
+lain: 1
+flit: 1
+doom: 1
+bull: 1
+foil: 1
+gins: 1
+flub: 1
+cyan: 1
+brow: 1
+mean: 1
+awol: 1
+hire: 1
+flue: 1
+boys: 1
+facetious: 1
+defectors: 1
+hint: 1
+fool: 1
+burr: 1
+paid: 1
+mash: 1
+laze: 1
+hits: 1
+nice: 1
+lies: 1
+load: 1
+from: 1
+oaks: 1
+errs: 1
+four: 1
+inks: 1
+barricade: 1
+mesh: 1
+link: 1
+loam: 1
+iota: 1
+inky: 1
+lets: 1
+gown: 1
+pele: 1
+ogle: 1
+gunk: 1
+celebrant: 1
+grow: 1
+oast: 1
+hulk: 1
+catalepsy: 1
+seal: 1
+moat: 1
+logs: 1
+sang: 1
+tech: 1
+aldehydes: 1
+mist: 1
+peps: 1
+monk: 1
+oner: 1
+love: 1
+none: 1
+semi: 1
+omit: 1
+morn: 1
+taps: 1
+lung: 1
+noon: 1
+pram: 1
+rode: 1
+poet: 1
+vamp: 1
+vice: 1
+walk: 1
+rims: 1
+vied: 1
+mows: 1
+ploy: 1
+lyra: 1
+yale: 1
+mute: 2
+wash: 1
+murk: 1
+well: 1
+roof: 1
+zeal: 1
+barometer: 1
+vent: 1
+shut: 1
+text: 1
+yams: 1
+toes: 1
+whip: 1
+solo: 1
+pure: 1
+prow: 1
+soon: 1
+swam: 1
+rune: 1
+wilt: 1
+tubs: 1
+with: 1
+pyre: 1
+wily: 1
+uses: 1
+ambergris: 1
+zero: 1
+word: 1
+rust: 2
+deflating: 1
+swum: 1
+yuck: 1
+adornment: 1
+zoos: 1
+catharsis: 1
+anaerobic: 1
+catalysis: 2
+degaussed: 1
+bereaving: 1
+battalion: 1
+accelerates: 1
+premeditated: 1
+facsimile: 1
+blameless: 1
+absurdest: 1
+charismas: 1
+preconception: 1
+aforesaid: 1
+dialectal: 1
+actresses: 1
+ambitions: 1
+disparagement: 1
+abutments: 1
+battlecry: 1
+anarchism: 1
+afterlife: 2
+aftermath: 1
+claimable: 1
+carnivore: 1
+blankness: 1
+requirements: 1
+chastises: 1
+childhood: 1
+diffident: 1
+fanatical: 1
+preconditions: 1
+arachnids: 1
+amazement: 1
+cleanness: 1
+beefburger: 2
+clearings: 2
+amazingly: 1
+confiscations: 1
+anatomies: 1
+disingenuously: 1
+archangel: 1
+eclipsing: 1
+allocates: 1
+cautioned: 1
+bipartite: 1
+disintegrates: 2
+diatribes: 1
+dictators: 1
+digestive: 1
+digitally: 1
+censorial: 1
+boardroom: 1
+depletion: 1
+deprecate: 1
+handicaps: 1
+allowable: 1
+censuring: 1
+centuries: 1
+earthling: 1
+ascension: 1
+desirable: 1
+boathouse: 1
+ashamedly: 1
+hardbacks: 1
+deserving: 1
+depressed: 1
+bishopric: 1
+handshake: 1
+hamburger: 1
+affordable: 1
+disbanded: 2
+earthwork: 1
+bloodbath: 1
+earthworm: 1
+cleverest: 1
+hairbrush: 1
+handiwork: 2
+fleabites: 1
+behaviours: 1
+resoundingly: 1
+amorality: 1
+camcorders: 1
+responsively: 1
+resubstitute: 1
+haphazard: 1
+bloodshed: 1
+electrics: 1
+gigabytes: 1
+coherency: 1
+cranberry: 1
+hardiness: 1
+bloodlust: 1
+heartburn: 1
+aborigines: 2
+ectoplasm: 1
+deputises: 1
+craftsmen: 1
+bitterest: 1
+churchman: 1
+draconian: 1
+churchmen: 1
+hairstyle: 1
+ideograms: 1
+microcomputers: 1
+creditors: 1
+reproachfulness: 1
+genocidal: 1
+annulling: 1
+annulment: 1
+cognizant: 1
+disinfect: 1
+abase: 1
+abies: 1
+cadet: 1
+caddy: 1
+ahead: 1
+disbursed: 1
+again: 1
+abets: 1
+abhor: 1
+adhoc: 1
+caked: 1
+baldy: 1
+dealership: 1
+harlequin: 1
+happiness: 1
+balsa: 1
+debilitate: 1
+beany: 1
+banjo: 2
+devotions: 1
+daffy: 1
+balmy: 1
+admix: 1
+canoe: 1
+belay: 1
+broadloom: 2
+dogmatism: 1
+cheat: 1
+death: 2
+amble: 1
+champ: 1
+edema: 1
+chase: 1
+chief: 1
+blank: 1
+dares: 1
+bleep: 1
+appraiser: 1
+dices: 1
+chamberpot: 1
+hades: 1
+decimating: 1
+clang: 1
+herbalism: 1
+devouring: 1
+edify: 1
+agony: 1
+cleat: 1
+alert: 1
+awareness: 1
+hacks: 1
+amine: 1
+birch: 1
+eliminate: 1
+clams: 1
+fairs: 1
+false: 1
+dells: 1
+cliff: 1
+feast: 1
+hadnt: 1
+darts: 1
+believable: 2
+datum: 1
+ideal: 1
+confirmed: 1
+idaho: 1
+biter: 1
+confessor: 1
+fates: 1
+angst: 1
+depth: 1
+fauna: 2
+crabs: 1
+fends: 2
+fiend: 1
+boned: 1
+garrotted: 1
+glace: 1
+halls: 1
+hatch: 2
+cloudiest: 1
+coats: 1
+icier: 1
+commended: 1
+detox: 1
+idled: 1
+disinvest: 1
+dodgy: 1
+booby: 1
+hates: 1
+blowpipes: 1
+blots: 1
+idler: 1
+borer: 1
+lacks: 1
+gazes: 1
+bucks: 1
+comfy: 1
+borne: 1
+haydn: 1
+array: 1
+foams: 1
+leech: 1
+distanced: 1
+avers: 1
+haunt: 1
+enigmatic: 1
+fires: 1
+erect: 1
+bulbs: 2
+dirty: 1
+cough: 1
+divot: 1
+deceptions: 1
+gills: 1
+dosed: 1
+aswan: 1
+leaks: 1
+hasty: 1
+boxes: 3
+leeds: 1
+axing: 1
+dispenser: 3
+drill: 1
+drays: 1
+broom: 1
+keels: 1
+coven: 1
+frank: 1
+lands: 1
+enjoy: 1
+awoke: 1
+leapt: 1
+flora: 1
+dough: 1
+naked: 1
+fixer: 1
+hitch: 2
+blackmails: 1
+dispersal: 1
+ocean: 1
+lathe: 1
+antitrust: 2
+mispronunciation: 1
+dukes: 1
+brute: 1
+nails: 1
+idyll: 1
+karst: 1
+czars: 4
+curer: 1
+needy: 1
+grass: 1
+flute: 1
+grind: 1
+domiciled: 1
+rabat: 1
+abstaining: 1
+inept: 1
+downy: 1
+liens: 1
+mends: 1
+radar: 1
+pacts: 1
+racer: 1
+curve: 1
+limbs: 1
+butts: 1
+fouls: 1
+evoke: 1
+crypt: 1
+bothering: 1
+fumes: 1
+peaky: 1
+loafs: 1
+gentleman: 1
+liner: 1
+jazzy: 1
+marry: 1
+fowls: 1
+limit: 3
+meter: 1
+palms: 1
+froze: 1
+kiosk: 1
+barricades: 1
+curvy: 2
+erupt: 3
+nerds: 1
+odium: 1
+pence: 1
+menus: 1
+limps: 4
+horns: 1
+kloof: 1
+minim: 1
+colonnade: 1
+dusty: 1
+ambassador: 1
+teach: 1
+tacit: 2
+disrepute: 1
+ranis: 1
+moats: 1
+furze: 1
+lofts: 2
+mints: 1
+juicy: 1
+narrowmindedness: 1
+minty: 1
+relay: 1
+rides: 1
+piped: 1
+moped: 1
+artichoke: 2
+seats: 1
+known: 1
+teams: 2
+hurls: 1
+omens: 1
+husks: 3
+seine: 1
+sects: 1
+sheik: 1
+shelf: 1
+pesky: 2
+husky: 1
+tibia: 1
+tears: 2
+olive: 1
+compiling: 1
+disposals: 1
+satin: 2
+monks: 1
+teeth: 1
+pipit: 1
+poked: 1
+vague: 1
+lumen: 2
+theft: 1
+confidentiality: 1
+reply: 1
+prank: 1
+polar: 1
+ticks: 1
+congruity: 1
+hastiness: 1
+sieve: 1
+pixel: 1
+there: 1
+robes: 1
+pithy: 2
+mufti: 1
+tarot: 1
+notes: 2
+tempi: 1
+slick: 4
+fleshpots: 1
+motor: 1
+velar: 1
+sever: 2
+quack: 1
+wanes: 1
+venal: 1
+rocks: 1
+pored: 1
+tarry: 1
+riser: 1
+smell: 1
+speak: 1
+opted: 1
+timid: 1
+weigh: 1
+polls: 1
+weeks: 2
+quail: 1
+river: 1
+terms: 1
+cloyingly: 1
+lacquered: 1
+risks: 1
+muses: 1
+short: 1
+slily: 8
+anxiously: 1
+unfed: 1
+aspirates: 1
+enigmatically: 1
+uncle: 1
+tread: 1
+idiomatically: 1
+quasi: 3
+thorn: 1
+stake: 1
+owing: 1
+proof: 1
+poppy: 1
+waste: 1
+snoek: 1
+agitations: 1
+lyons: 1
+sonar: 1
+snobs: 1
+genotypes: 2
+stags: 1
+welsh: 1
+toast: 1
+testy: 1
+triad: 1
+stank: 1
+widow: 1
+avoidable: 1
+verve: 1
+conscious: 1
+trend: 1
+whirl: 2
+quire: 1
+wiped: 1
+toils: 1
+quirk: 1
+pulps: 1
+myrrh: 3
+wines: 1
+spoof: 1
+elocution: 1
+tries: 1
+spray: 1
+elongates: 1
+trigs: 1
+stern: 2
+communing: 1
+wetly: 1
+twain: 1
+atomicity: 1
+barrenness: 1
+consigned: 1
+ousts: 1
+squib: 1
+zappy: 4
+stoke: 1
+conscript: 1
+unwed: 1
+hatstands: 2
+stirs: 1
+until: 1
+rumps: 1
+swill: 1
+colouring: 1
+sulky: 1
+twine: 1
+sumps: 1
+complying: 1
+colourise: 1
+fireproof: 1
+wooer: 1
+deflectors: 1
+twins: 1
+swore: 1
+wrest: 1
+categorise: 1
+swoop: 1
+synod: 1
+bulkheads: 1
+swops: 1
+zonal: 1
+vulva: 1
+contested: 1
+convening: 1
+constable: 1
+dualistic: 1
+hexagonal: 1
+fractured: 1
+continued: 1
+cornering: 2
+crippling: 1
+conglomerates: 1
+conversed: 1
+corrected: 2
+distrusts: 1
+awfulness: 1
+mournfulness: 1
+absorption: 1
+adaptations: 1
+ennobling: 1
+contrasts: 1
+enjoyably: 1
+charitable: 1
+carnations: 1
+godliness: 1
+lambswool: 1
+barristers: 1
+gradually: 1
+accidentally: 1
+landowner: 1
+cosmology: 1
+crucially: 1
+cavalryman: 1
+construct: 2
+ethically: 1
+delectable: 1
+convulses: 1
+guacamole: 1
+adventures: 1
+megaphone: 1
+corrosion: 1
+diagonally: 1
+escorting: 1
+liberally: 1
+greataunt: 1
+indicting: 1
+feebleness: 1
+autocracy: 1
+dowelling: 1
+sensuousness: 3
+manicured: 1
+alkalinity: 1
+jauntiest: 1
+astronaut: 1
+forebrain: 1
+chastening: 1
+inaudible: 1
+aeroplanes: 1
+necklaces: 2
+freshener: 2
+crumblier: 1
+allegiance: 1
+peaceably: 1
+crossbred: 1
+imbroglio: 1
+resurrection: 1
+greetings: 2
+inelastic: 1
+namesakes: 1
+factorises: 1
+ancestries: 1
+entreated: 1
+diffidence: 1
+indolence: 1
+mendacity: 1
+inflicter: 1
+immediate: 1
+childishly: 1
+mouthtomouth: 1
+casualties: 1
+droopiest: 1
+graveyard: 1
+enquiring: 2
+marigolds: 1
+negations: 2
+manoeuvre: 1
+foretaste: 1
+inherited: 1
+marinated: 1
+forgiving: 1
+fanaticism: 1
+delineates: 1
+lifespans: 3
+cherishing: 1
+terminations: 1
+ineffectualness: 1
+ingrained: 1
+formative: 1
+formatted: 2
+nasalised: 1
+lavishing: 1
+execution: 1
+friskiest: 1
+forewords: 1
+impairing: 1
+curiosity: 1
+racegoers: 1
+maternity: 1
+massaging: 1
+preservation: 1
+groceries: 1
+imitative: 1
+etiquette: 1
+merchants: 1
+marshland: 1
+peakiness: 1
+erosional: 1
+dependency: 1
+eulogises: 1
+multifarious: 1
+exemplary: 1
+palladium: 1
+officious: 1
+forwarded: 1
+buttoning: 1
+earmarking: 1
+microcode: 1
+estimated: 1
+meridians: 2
+fossilise: 1
+hotheaded: 1
+chiselling: 1
+innocence: 1
+pediments: 1
+mightiest: 1
+bestiality: 1
+disintegrating: 1
+innocents: 1
+immovable: 1
+migraines: 1
+mayflower: 1
+centimetre: 1
+fulminate: 1
+radiology: 1
+mentality: 1
+farfetched: 1
+paparazzi: 1
+exertions: 1
+honorific: 1
+headphones: 1
+poltergeists: 1
+guillemot: 1
+bedevilment: 2
+demolished: 1
+imploring: 1
+centrefold: 1
+traceability: 1
+fulltimer: 1
+insidious: 1
+exhorting: 1
+paramount: 1
+immunises: 1
+interface: 1
+recharged: 1
+centrifuge: 1
+redeeming: 1
+pardoning: 1
+lettering: 1
+boardrooms: 1
+inveigler: 1
+bestirring: 1
+expiatory: 1
+milestone: 1
+important: 1
+architrave: 1
+ramblings: 1
+importing: 1
+inserting: 1
+interment: 1
+knockings: 1
+impersonations: 1
+deprecates: 1
+interning: 1
+iterators: 1
+editorials: 1
+horsewhip: 1
+placidity: 1
+litigious: 1
+saboteurs: 1
+receptive: 1
+braincells: 1
+gangrenous: 1
+instances: 1
+installed: 1
+neophytes: 7
+misdirect: 1
+slaughterings: 1
+ascensions: 1
+inventors: 1
+exploited: 1
+encyclopaedic: 1
+inversely: 1
+inviolate: 1
+sandalled: 1
+partaking: 1
+coalitions: 1
+exploring: 1
+referents: 1
+redrafted: 1
+liquidise: 1
+instilled: 1
+obstinate: 1
+partially: 2
+refilling: 1
+etymology: 1
+breakpoint: 1
+desertions: 1
+ebullience: 1
+despairing: 1
+howitzers: 1
+shadeless: 1
+livestock: 1
+expounded: 1
+rebounded: 1
+rectifies: 1
+listening: 1
+deployment: 1
+loftiness: 1
+tabulates: 1
+allotropic: 1
+seaplanes: 1
+abbreviating: 1
+exporting: 2
+penitents: 2
+partition: 1
+multiplexors: 1
+plaintiff: 1
+pontificated: 1
+amplifying: 1
+heathenish: 1
+dissimilarity: 1
+deposition: 1
+modulates: 1
+deaconesses: 1
+circumflex: 1
+perinatal: 1
+seconders: 1
+perforate: 1
+detractors: 1
+endangered: 1
+dessicated: 1
+neurology: 1
+bridgehead: 1
+regresses: 1
+circumvent: 1
+mountainsides: 1
+perishing: 1
+technique: 1
+endearment: 1
+pensively: 1
+hectically: 1
+ransoming: 1
+mollifies: 1
+teenagers: 1
+repeating: 1
+regularly: 1
+saucepans: 1
+selecting: 1
+renewable: 1
+teardrops: 1
+salvation: 1
+selective: 1
+complications: 1
+colonisations: 1
+decapitated: 1
+repayable: 1
+decapitates: 1
+replacing: 1
+sidelines: 1
+deactivates: 1
+oppressively: 1
+scratches: 2
+creditable: 1
+moneyless: 1
+annotating: 1
+loveliest: 1
+pitchfork: 1
+garnishing: 1
+rephrases: 1
+rheumatic: 2
+nominated: 1
+embittered: 1
+aggregation: 1
+annoyances: 1
+reissuing: 1
+monocytes: 1
+iceskating: 1
+lullabies: 1
+organised: 1
+dedications: 1
+tapeworms: 1
+reprehend: 1
+campaigning: 1
+replugged: 1
+signalmen: 1
+telephone: 1
+dimorphism: 1
+telephoto: 1
+condemning: 2
+serialise: 1
+precincts: 1
+reshuffle: 1
+signifies: 1
+stagecoaches: 1
+cadged: 1
+confidants: 1
+disqualifying: 2
+baboon: 1
+accord: 1
+cables: 1
+notebooks: 1
+bedded: 2
+becalm: 1
+identified: 1
+adhere: 1
+acetic: 1
+banded: 1
+retracing: 1
+revelries: 1
+bedbug: 1
+affine: 1
+disinherit: 1
+adieus: 2
+blueprints: 1
+originals: 1
+dagger: 1
+chamberlain: 2
+chuntering: 1
+banker: 1
+cancer: 1
+adjoin: 1
+abjure: 1
+silencing: 1
+debate: 1
+polarised: 1
+calmed: 1
+debark: 1
+banner: 1
+decamp: 1
+begets: 1
+collecting: 1
+barges: 1
+aiders: 1
+therapist: 2
+scruffier: 1
+dramatised: 2
+bedsit: 1
+bashes: 1
+barker: 1
+barmen: 1
+bather: 1
+apoplectic: 1
+aerate: 1
+befoul: 1
+endogenous: 1
+antisocial: 1
+chains: 1
+arithmetic: 1
+valuables: 1
+disobeying: 1
+defile: 1
+chased: 1
+notations: 1
+declarative: 1
+catchy: 1
+chided: 1
+shiploads: 2
+aerify: 1
+blamed: 1
+carpal: 1
+casing: 1
+champs: 1
+chemic: 1
+sneakiest: 1
+chiefs: 1
+bashfulness: 1
+battle: 2
+conflation: 1
+acuter: 1
+alcove: 1
+cartel: 1
+aliens: 1
+arable: 1
+edicts: 1
+albums: 1
+hackle: 1
+headed: 1
+dating: 1
+fallen: 1
+claims: 1
+cleans: 1
+alines: 2
+arcane: 1
+bevels: 1
+scrumhalf: 1
+feeler: 1
+gandhi: 1
+farces: 1
+amazon: 1
+angola: 1
+chocks: 1
+blazes: 1
+thesaurus: 1
+harnessing: 1
+berths: 1
+bionic: 1
+airily: 1
+municipal: 1
+pluckiest: 1
+arches: 1
+favourites: 1
+desalt: 1
+ganger: 1
+severable: 1
+disjointed: 1
+aphids: 1
+blossoming: 1
+dilate: 1
+tentacles: 1
+templates: 1
+handel: 1
+herbicides: 1
+coffee: 1
+faring: 1
+garden: 1
+reuniting: 1
+overreacting: 1
+sketchpad: 1
+father: 1
+saxophone: 1
+haired: 1
+embeds: 1
+clayey: 1
+ejects: 2
+novelette: 1
+demure: 1
+coders: 1
+elands: 1
+iceman: 1
+iberia: 1
+coaxed: 1
+elated: 1
+circus: 1
+sensually: 1
+bridge: 1
+thespians: 1
+diners: 1
+bloods: 1
+appals: 1
+flakes: 1
+gauges: 1
+births: 2
+bloody: 1
+feuded: 1
+socialism: 1
+hidden: 1
+felons: 1
+comber: 1
+harass: 1
+church: 1
+coined: 1
+dipped: 1
+phylogeny: 1
+athens: 1
+jailer: 1
+dreads: 1
+breezy: 1
+hardup: 1
+shipyards: 1
+border: 1
+blower: 1
+discus: 1
+ladies: 1
+flawed: 1
+bugged: 1
+madame: 1
+enemas: 1
+engels: 1
+filing: 1
+favour: 1
+bratty: 1
+hemmed: 1
+commencing: 5
+coming: 2
+varieties: 1
+closes: 1
+idiocy: 1
+havent: 1
+arrant: 1
+fining: 1
+boring: 1
+flight: 1
+polishing: 1
+botany: 1
+brinks: 1
+gazing: 1
+borers: 1
+ploughmen: 1
+hasten: 1
+cuddly: 1
+mountings: 1
+bugler: 1
+fester: 1
+iconic: 1
+glides: 1
+escarp: 1
+colony: 1
+atrial: 1
+league: 1
+resultant: 1
+eluded: 1
+helots: 1
+clouts: 1
+cosier: 1
+ledger: 1
+lances: 1
+engulf: 1
+gentry: 2
+critic: 1
+global: 1
+lagoon: 1
+assays: 1
+cosmic: 1
+crises: 1
+leased: 1
+glassy: 2
+conscientious: 1
+bowmen: 1
+coward: 1
+manage: 1
+graham: 1
+macron: 1
+getter: 1
+dyadic: 1
+meddle: 1
+folder: 1
+photomultiplier: 1
+societies: 1
+leases: 1
+cycled: 3
+meanie: 1
+awning: 1
+copout: 1
+cosmos: 1
+attire: 1
+french: 1
+covets: 2
+entice: 1
+malign: 1
+dressy: 1
+cycles: 1
+jejune: 1
+magnum: 1
+specialty: 1
+exceed: 1
+friend: 1
+brunet: 1
+unadapted: 1
+servicing: 1
+forbid: 1
+meeker: 1
+flowed: 1
+elvish: 1
+grated: 1
+incest: 1
+libero: 1
+godson: 1
+friary: 1
+costly: 1
+greasy: 1
+drudge: 1
+jerkin: 1
+lathes: 1
+kennel: 1
+pacing: 1
+jaunty: 1
+envies: 1
+pacers: 1
+fringe: 1
+byline: 1
+inlaid: 1
+jinked: 1
+middle: 1
+maples: 1
+graves: 3
+namely: 1
+latino: 2
+naming: 1
+manual: 1
+meeter: 1
+flawlessly: 1
+infirm: 1
+mendel: 1
+published: 1
+glitzy: 1
+fringy: 1
+lasted: 1
+druids: 1
+laboratory: 1
+midges: 1
+dispersion: 1
+kelvin: 1
+grazer: 1
+jetted: 1
+wheelbase: 1
+induna: 1
+guffaw: 1
+menial: 1
+llamas: 2
+northward: 1
+libyan: 1
+padres: 1
+impair: 1
+fought: 1
+koalas: 1
+erotic: 1
+napped: 2
+office: 2
+shrinkage: 2
+servilely: 1
+serviette: 1
+guides: 1
+preserves: 1
+goring: 1
+juxtapose: 1
+gorgon: 1
+melted: 1
+foster: 1
+itches: 1
+raided: 1
+memoir: 1
+numerator: 1
+cuttle: 1
+gospel: 1
+hopped: 1
+liming: 1
+palest: 1
+foulup: 1
+primetime: 1
+errors: 1
+merely: 1
+jokier: 1
+knight: 1
+disloyalty: 1
+kipper: 1
+sables: 2
+hotels: 1
+merino: 1
+exhort: 1
+amalgamated: 1
+scaled: 1
+oldage: 1
+gritty: 1
+kismet: 1
+gourds: 1
+nimble: 1
+sacred: 1
+gullet: 1
+recaps: 1
+mobile: 1
+messed: 1
+placed: 1
+intent: 1
+exodus: 1
+pencil: 1
+ranged: 1
+nether: 2
+gentleness: 1
+phases: 1
+raised: 1
+grunge: 1
+patent: 1
+sambas: 1
+insist: 1
+reeled: 1
+random: 6
+hybrid: 1
+sanded: 1
+juices: 1
+liquid: 1
+belligerent: 1
+instil: 1
+humped: 1
+parses: 2
+longed: 1
+reduce: 1
+unchecked: 1
+reflex: 1
+joshua: 1
+jovian: 1
+rapine: 1
+litres: 2
+hushed: 1
+insult: 1
+miosis: 1
+hungry: 2
+perked: 1
+nobody: 1
+teacup: 1
+payers: 1
+loiter: 1
+pavlov: 1
+mitred: 1
+complaints: 1
+salome: 1
+neuron: 1
+nipper: 1
+future: 2
+pepper: 1
+misses: 2
+oilrig: 1
+talkie: 1
+processor: 2
+plates: 1
+sample: 1
+salved: 1
+rasped: 1
+mixing: 1
+uncannily: 1
+rashly: 2
+teemed: 2
+seethe: 1
+waddle: 1
+pileup: 1
+ordeal: 1
+scream: 1
+knotty: 1
+shanks: 1
+shekel: 1
+tibiae: 2
+hurtle: 1
+bellicosity: 1
+shaved: 1
+raptor: 1
+looser: 1
+sieges: 1
+pliers: 1
+tamper: 1
+rubbishes: 1
+thirstily: 1
+conjugated: 1
+piping: 1
+tarmac: 1
+phonon: 1
+moored: 1
+conjugates: 1
+flavouring: 1
+resign: 1
+spatially: 1
+satiny: 1
+ringed: 1
+thence: 1
+tender: 1
+complicity: 1
+orbits: 1
+pities: 1
+distillery: 1
+testifies: 1
+tiding: 1
+teller: 1
+revere: 1
+wafted: 1
+retest: 1
+sewage: 1
+polygonal: 1
+resold: 1
+sleeks: 2
+guzzle: 1
+rested: 1
+resist: 1
+rewind: 1
+pressures: 1
+tiered: 1
+smegma: 1
+nosing: 1
+spacer: 1
+novice: 1
+prices: 1
+valued: 2
+rocket: 1
+tawdry: 1
+sodden: 1
+resort: 1
+producing: 2
+poises: 1
+pistol: 3
+polish: 1
+sevens: 2
+tights: 1
+tauter: 1
+warble: 1
+retune: 1
+snatch: 1
+pooled: 1
+severs: 1
+luther: 1
+wavefront: 1
+welded: 1
+venial: 1
+sewers: 1
+connexions: 1
+sneers: 1
+smells: 1
+dextrously: 1
+pivots: 1
+shrill: 1
+taylor: 1
+thrillers: 1
+waists: 1
+shrugging: 1
+vendor: 1
+prised: 1
+smiler: 1
+sexism: 2
+containing: 1
+robust: 1
+wharfs: 1
+spellings: 1
+spherical: 2
+pizzicato: 1
+tinner: 2
+potent: 1
+widely: 1
+soldering: 1
+victim: 1
+upbeat: 1
+smocks: 2
+sextet: 1
+portal: 1
+priory: 1
+uncles: 1
+shrugs: 1
+accomplishes: 1
+shouts: 1
+stance: 1
+blacksmiths: 1
+treble: 1
+pointlessness: 1
+congregational: 1
+solids: 1
+splice: 1
+viewer: 1
+splash: 1
+sister: 1
+vilely: 1
+populated: 1
+trails: 1
+queued: 1
+slouch: 1
+nursed: 1
+ostler: 1
+usable: 2
+rouble: 1
+stared: 1
+unborn: 1
+zebras: 1
+whines: 1
+prompt: 1
+considered: 1
+owlish: 1
+pouter: 1
+polythene: 1
+mythic: 1
+stated: 1
+treats: 1
+rosier: 1
+static: 1
+throws: 1
+trench: 1
+reinterpretation: 1
+underlies: 1
+thrush: 1
+deferential: 1
+stanza: 1
+violet: 1
+outing: 1
+encrusting: 1
+enervating: 1
+unalloyed: 1
+whirls: 1
+outlay: 1
+prunes: 1
+thrust: 1
+yelped: 1
+outfox: 1
+quicklime: 1
+stator: 1
+unlink: 1
+snoopy: 1
+unless: 1
+puerperal: 1
+slumps: 1
+contamination: 1
+unreal: 1
+unfurl: 1
+unseal: 1
+pursed: 1
+underplay: 2
+spores: 1
+sorted: 1
+sweeps: 1
+sprite: 1
+soviet: 1
+thumbnail: 1
+strafe: 1
+tooted: 1
+quoits: 1
+whoops: 1
+wiring: 1
+idolatrous: 1
+stinks: 1
+sulked: 1
+sunday: 1
+winnow: 1
+smokeless: 1
+soused: 1
+swells: 1
+stoics: 2
+composedly: 1
+unshod: 1
+oxygen: 1
+rupert: 1
+strata: 1
+gingivitis: 1
+covalently: 1
+stride: 1
+strife: 1
+sinuously: 4
+elucidated: 1
+swiped: 1
+sprout: 1
+underwent: 1
+toured: 1
+thundered: 1
+wooden: 1
+summon: 1
+stripe: 1
+supped: 1
+spurns: 1
+strive: 1
+tuning: 1
+unwise: 1
+stroke: 1
+tuners: 1
+vulcan: 2
+stripy: 1
+strong: 1
+turgid: 1
+zipped: 1
+filtration: 2
+strung: 1
+surtax: 1
+rotatable: 1
+splenetic: 1
+proscribe: 1
+astigmatic: 1
+worsen: 1
+twisty: 1
+upturn: 1
+contenting: 1
+continence: 1
+urbanised: 1
+spinnaker: 1
+yorker: 1
+computable: 1
+asthmatics: 1
+ostracism: 1
+contiguity: 1
+steepened: 1
+purchaser: 1
+windbreak: 2
+versatile: 1
+computably: 1
+vocations: 1
+sloppiest: 1
+tiptoeing: 1
+popularising: 1
+converging: 1
+bastardised: 1
+apprenticeship: 1
+stargazer: 1
+conscientiousness: 1
+stampings: 1
+trampling: 1
+tolerance: 1
+throttles: 1
+uneconomical: 1
+rotations: 1
+proposers: 1
+fracturing: 2
+polymorphism: 1
+vineyards: 1
+steepness: 2
+sufficing: 1
+continuity: 1
+abstracting: 1
+starlight: 1
+continuous: 1
+converting: 1
+roughness: 1
+trappings: 1
+starlings: 1
+sufferers: 1
+byelection: 1
+suffocate: 1
+boyfriends: 1
+progressions: 1
+unexcited: 1
+corrigenda: 1
+trellises: 1
+additionally: 1
+traversed: 1
+enlistment: 1
+magnifying: 1
+virginity: 1
+accelerations: 1
+skylights: 1
+frameworks: 1
+cormorants: 1
+suggester: 1
+outhouses: 1
+tricycles: 1
+contorting: 1
+consultant: 1
+sonsinlaw: 1
+viscounts: 1
+rostering: 1
+mainframes: 1
+cyberspace: 1
+exacerbate: 1
+suffusion: 1
+lexicographers: 1
+girlfriend: 1
+sweetener: 1
+contusions: 1
+meaningful: 2
+unnerving: 1
+sprockets: 1
+freewheels: 1
+outwardly: 1
+trimmings: 1
+undiminished: 1
+outskirts: 2
+soundings: 1
+sprinters: 1
+ruinously: 1
+demagoguery: 1
+doubtfully: 1
+abusiveness: 1
+infallible: 1
+defoliation: 1
+forbearing: 1
+overwintered: 1
+triteness: 1
+anthropocentric: 1
+tormentor: 1
+adversities: 1
+strainers: 1
+unsighted: 1
+untidiest: 1
+greenfield: 1
+languorous: 1
+proofreaders: 1
+sportsman: 1
+counteract: 1
+surfacing: 1
+liberation: 1
+wintriest: 1
+purveyors: 1
+wellestablished: 2
+justifications: 1
+forecaster: 1
+sunburned: 1
+understander: 1
+unmusical: 2
+sulphates: 1
+epitomised: 1
+astronauts: 1
+sycophant: 1
+sprouting: 1
+striation: 1
+brutalised: 1
+wolfishly: 1
+summonsed: 1
+fluctuated: 1
+envelopers: 1
+inflatable: 1
+indiscreet: 1
+especially: 1
+flowerless: 1
+businesses: 1
+colourisation: 1
+enumerates: 1
+stumbling: 1
+foodstuffs: 1
+unaccountably: 1
+increments: 1
+individual: 1
+strongest: 1
+strollers: 1
+upstaging: 1
+marginally: 1
+turgidity: 1
+automotive: 1
+peacefully: 1
+suspicion: 1
+infinitude: 1
+objections: 1
+supplying: 1
+laundering: 1
+unusually: 1
+acupuncture: 1
+exceptions: 1
+workforce: 1
+unwritten: 2
+lesbianism: 1
+workloads: 1
+entomology: 1
+clandestine: 1
+workplace: 1
+predetermination: 1
+uncollimated: 1
+downplayed: 1
+excitement: 1
+surtitles: 1
+worksheet: 1
+nectarines: 1
+librettist: 1
+neighbours: 1
+wristband: 1
+workspace: 1
+influenced: 1
+forerunner: 1
+feasibility: 1
+wrongdoer: 1
+guaranteed: 1
+lengthwise: 1
+duplicator: 1
+familiarity: 1
+turnstile: 1
+subjectivism: 1
+equilibria: 1
+officially: 1
+connectionless: 1
+ingression: 1
+impatience: 1
+frolicsome: 1
+proscription: 1
+incursions: 1
+drowsiness: 1
+formulated: 1
+homogenise: 1
+derangement: 1
+footprints: 1
+forwarding: 1
+innkeepers: 1
+localising: 1
+kilometres: 1
+uncompressed: 1
+pedimented: 1
+daydreaming: 1
+jocularity: 1
+masquerade: 1
+disproportionate: 1
+metallurgy: 2
+falsifiable: 1
+paintbrush: 1
+expediency: 1
+unhesitating: 1
+uncorrelated: 1
+knighthood: 1
+punctuations: 1
+limestones: 1
+insecurely: 2
+postponement: 1
+skullduggery: 1
+centralises: 1
+androgynous: 1
+unattenuated: 1
+transferable: 1
+fulltimers: 1
+meticulous: 2
+safeguards: 1
+nightdress: 1
+mesmerised: 1
+immunology: 1
+intimacies: 1
+guiltiness: 1
+cytochrome: 1
+nimbleness: 2
+imprisoned: 1
+interleave: 1
+experiment: 1
+impossible: 2
+pantaloons: 1
+interested: 1
+internally: 1
+miraculous: 1
+judgements: 1
+sabotaging: 1
+polycarbonate: 1
+unemployment: 1
+humanities: 1
+intentions: 1
+horrifying: 1
+iterations: 1
+depredation: 1
+mobilising: 1
+mobilities: 1
+literalism: 1
+handicrafts: 1
+handcuffing: 1
+ionosphere: 1
+intertwine: 1
+groundnuts: 1
+lobotomies: 1
+protuberance: 1
+picnicking: 1
+insolently: 1
+invocation: 2
+primogeniture: 1
+reawakened: 1
+hybridised: 1
+kookaburra: 1
+instigator: 1
+numerologists: 1
+stepchildren: 2
+calibrations: 1
+scheduling: 1
+scenically: 1
+invitation: 1
+externally: 1
+inquisitor: 1
+redrafting: 1
+questionable: 1
+institutionalise: 1
+scavengers: 1
+outmanoeuvre: 1
+tranquillity: 1
+nonparticipation: 1
+extinguish: 1
+easternmost: 1
+piercingly: 1
+embellished: 1
+extracting: 2
+abbreviations: 1
+institutes: 1
+antecedents: 1
+scientific: 1
+perihelion: 1
+pentagonal: 1
+trepidations: 1
+circumcised: 1
+secondbest: 1
+uneventfully: 1
+prostituting: 1
+refreshing: 1
+patronised: 1
+salivating: 1
+exultation: 1
+intrusions: 1
+alternately: 1
+genealogist: 1
+seasonable: 1
+nutritionist: 1
+sandstones: 1
+refundable: 1
+intelligentsia: 1
+prognostication: 1
+neutralism: 1
+pensioning: 1
+encampments: 1
+ricocheted: 1
+sanitation: 1
+techniques: 1
+perilously: 1
+tailormade: 1
+selectable: 1
+newsletter: 1
+rejoinders: 1
+secularist: 1
+regulation: 1
+subordinates: 1
+rationally: 1
+extroverts: 1
+detonations: 1
+hardhitting: 1
+discernible: 1
+electronics: 1
+handwritten: 1
+bridesmaids: 1
+antibiotics: 1
+underinvestment: 1
+appellation: 1
+pertinence: 1
+disciplined: 1
+openhanded: 1
+personages: 1
+sedulously: 1
+persuaders: 1
+personally: 1
+sharpening: 1
+discography: 2
+perversity: 1
+stereophonic: 1
+molybdenum: 1
+persuasion: 1
+monitoring: 1
+openminded: 1
+thankfully: 1
+unselfconscious: 1
+floodlighting: 1
+disapproves: 1
+hypocrites: 1
+unimpressive: 1
+churchyards: 1
+seismogram: 1
+destitution: 1
+brightening: 1
+divebombing: 1
+resentment: 2
+phosphoric: 1
+disentangle: 1
+academe: 2
+babbled: 1
+babbles: 1
+revelation: 1
+confidences: 1
+entrepreneurship: 1
+cabaret: 1
+bahamas: 1
+anthologise: 1
+dabbled: 1
+beading: 1
+acidify: 4
+badness: 1
+conceptualisation: 1
+shoddiness: 1
+cadenza: 1
+acetate: 1
+reproduced: 1
+preferment: 1
+signatures: 1
+affects: 1
+beakers: 1
+babyish: 1
+scriptural: 1
+babysit: 1
+deadend: 1
+barbell: 1
+originates: 1
+cancels: 1
+beaters: 1
+appreciable: 1
+decagon: 1
+defaced: 1
+beatnik: 1
+deadsea: 1
+deafest: 1
+ferociously: 1
+camelot: 1
+banners: 1
+sentencing: 1
+bedouin: 1
+identifying: 1
+amputations: 1
+faceted: 1
+motivating: 1
+chanced: 2
+beneath: 1
+beetles: 1
+motivation: 2
+resonantly: 2
+barkers: 1
+changed: 1
+notational: 1
+aerials: 1
+effaced: 1
+canteen: 1
+bifocal: 1
+broadsheets: 1
+adopter: 1
+catarrh: 1
+captain: 1
+chanter: 1
+charles: 1
+canvass: 1
+amiably: 1
+sentential: 1
+basting: 1
+batsman: 1
+amended: 1
+airbase: 1
+blaming: 1
+faction: 1
+battens: 1
+gaggled: 1
+damsels: 1
+cements: 1
+concordance: 1
+conditional: 1
+effects: 1
+ceramic: 1
+factual: 1
+harmfulness: 1
+bobbles: 1
+darling: 1
+tastefully: 1
+fanatic: 1
+demigod: 1
+confiscated: 2
+allegro: 1
+repulsions: 1
+respondent: 1
+cartons: 1
+fallers: 3
+cheroot: 1
+febrile: 1
+blackberries: 1
+clearly: 1
+jabbing: 2
+clashes: 1
+descent: 1
+bracing: 1
+bracket: 1
+earning: 1
+diatoms: 1
+fiddled: 1
+ammeter: 1
+prehistory: 1
+retrievers: 1
+betters: 1
+animism: 1
+choking: 1
+efforts: 1
+fiefdom: 1
+clatter: 1
+heedful: 1
+earplug: 1
+dentine: 1
+tightening: 1
+denting: 1
+fidgets: 1
+bombard: 1
+amperes: 1
+embargo: 1
+jacking: 1
+economy: 1
+hangars: 2
+heckler: 1
+disinterred: 1
+annexed: 1
+heaping: 1
+wealthiest: 1
+despair: 1
+disable: 1
+depress: 1
+bombast: 1
+bishops: 1
+disband: 1
+blooded: 1
+deposit: 1
+ascribe: 1
+circuit: 1
+alluvia: 1
+heaveho: 1
+choughs: 1
+discant: 1
+hamitic: 1
+emblems: 1
+socialised: 1
+drachma: 1
+endears: 1
+dimmest: 1
+bluffed: 1
+weaselling: 1
+despoil: 1
+ecstasy: 1
+clubbed: 1
+doffing: 1
+gavials: 1
+dogdays: 1
+concede: 1
+elapses: 1
+coconut: 1
+elflike: 1
+combats: 1
+atheism: 1
+conclusions: 1
+creates: 1
+blotchy: 2
+brawled: 1
+atheist: 1
+fifteen: 1
+genetic: 1
+eccentricity: 1
+jailing: 1
+dishing: 1
+devotee: 1
+gasping: 1
+braying: 1
+fifties: 1
+citrate: 1
+brazing: 1
+budgets: 1
+drainer: 1
+flareup: 1
+anonyms: 1
+jaguars: 1
+divider: 1
+divides: 1
+confine: 1
+sculptress: 1
+hijacks: 2
+fevered: 1
+hideous: 1
+ferried: 1
+finicky: 2
+leaches: 1
+buggies: 1
+fodders: 1
+domains: 1
+germane: 1
+compact: 1
+haulier: 1
+declassified: 1
+collins: 1
+hemline: 1
+haulers: 1
+comment: 1
+blunted: 2
+gentile: 1
+lactate: 1
+flesher: 1
+distant: 1
+disrobe: 1
+donated: 1
+gifting: 1
+figureheads: 1
+harshly: 1
+flaunts: 1
+fireman: 1
+lebanon: 1
+uncleanliness: 2
+hawking: 1
+compete: 1
+cloudscapes: 1
+averred: 1
+arizona: 1
+attacks: 1
+endured: 1
+haunted: 1
+labours: 1
+lacunas: 1
+diurnal: 1
+fragile: 1
+filters: 2
+cordons: 1
+fixable: 1
+bonuses: 1
+compactions: 3
+bluster: 1
+universalism: 6
+fishing: 1
+croatia: 1
+bowlder: 1
+glazier: 1
+frailer: 2
+girding: 1
+dualism: 1
+aurally: 1
+hinders: 1
+drifter: 1
+northbound: 1
+magnate: 1
+heroics: 1
+interferometry: 1
+jasmine: 1
+artiste: 1
+hillman: 1
+bottler: 1
+asunder: 1
+meadows: 1
+fondant: 1
+cottage: 1
+lankier: 1
+frankly: 1
+displayable: 1
+burdens: 1
+servicemen: 1
+ghosted: 1
+coulomb: 1
+coverup: 1
+costars: 1
+temptingly: 1
+collisional: 1
+dukedom: 1
+burgeon: 1
+fistful: 1
+rewordings: 1
+liberia: 1
+cutback: 1
+scrupulous: 1
+maestro: 1
+fuddles: 1
+fittest: 1
+auroral: 1
+bushier: 2
+foramen: 1
+laughed: 1
+cowshed: 2
+needing: 2
+manhole: 1
+marbles: 1
+crumble: 1
+revolution: 1
+freshen: 1
+greenly: 1
+laugher: 1
+indexes: 1
+kennedy: 1
+lapping: 1
+bunting: 1
+flukier: 1
+flotsam: 1
+timeliness: 1
+crowned: 1
+inflect: 1
+highlighted: 1
+flosses: 1
+keratin: 1
+griffin: 1
+ptarmigans: 1
+cruiser: 1
+courtly: 1
+glories: 1
+timescales: 1
+unfamiliarity: 1
+employability: 1
+plundering: 1
+grimace: 1
+waistcoats: 1
+austria: 1
+katydid: 1
+principled: 1
+palaces: 1
+fretsaw: 2
+evinced: 1
+offbeat: 1
+mariner: 1
+marking: 2
+envious: 1
+diversifies: 1
+impaled: 1
+glycine: 1
+lazaret: 1
+matinee: 1
+cryings: 1
+lassoed: 1
+goitres: 1
+kindred: 1
+footing: 1
+wheelchair: 1
+holdout: 1
+footmen: 1
+eyebrow: 1
+excrete: 1
+blackcurrant: 1
+leisure: 1
+grinned: 1
+marshal: 1
+offence: 1
+buttock: 1
+frolics: 1
+forlorn: 1
+meiotic: 1
+flypast: 1
+jazzier: 1
+marries: 1
+gorilla: 1
+inkling: 1
+preserving: 1
+lobbing: 1
+radiate: 1
+honeyed: 1
+radians: 1
+menhirs: 1
+radiant: 1
+connectives: 1
+presbytery: 1
+cutrate: 1
+comparators: 1
+marquee: 1
+lineman: 1
+cursive: 1
+gnostic: 1
+painful: 1
+peckers: 1
+linemen: 1
+ingrown: 1
+shrewdness: 1
+matthew: 1
+lexical: 1
+lingers: 2
+huffily: 1
+knifing: 1
+guineas: 1
+custody: 1
+glutted: 2
+keypads: 1
+evoking: 1
+paragon: 1
+peeking: 1
+tabbing: 1
+marxist: 1
+matured: 1
+warehouses: 1
+gunboat: 1
+kinsmen: 1
+readily: 2
+reacted: 1
+glutton: 1
+nastier: 1
+logical: 1
+methods: 1
+dusting: 1
+milkier: 1
+redhead: 1
+jointed: 1
+accommodation: 1
+jitters: 1
+humaner: 1
+grouchy: 1
+jittery: 1
+insofar: 1
+buzzing: 1
+panther: 1
+pluralised: 1
+modicum: 1
+expires: 1
+tablets: 1
+phasing: 1
+grosser: 1
+pollutions: 1
+grouper: 1
+gunning: 1
+seamail: 1
+obverse: 1
+scathed: 1
+hulking: 1
+salamis: 1
+grossly: 1
+refiled: 1
+juggled: 1
+levying: 1
+exposed: 1
+rankled: 1
+undefeated: 1
+furring: 1
+schemer: 1
+extinct: 1
+gunship: 1
+humerus: 1
+instils: 1
+sealion: 1
+ironies: 1
+multiplies: 2
+pierces: 1
+regents: 1
+penguin: 1
+monadic: 1
+extract: 1
+refract: 1
+redrawn: 1
+ravaged: 1
+listens: 1
+listing: 1
+nesting: 1
+rectify: 1
+threesomes: 1
+exports: 1
+passive: 1
+longing: 1
+minster: 1
+minuted: 1
+congruences: 1
+recount: 1
+mistake: 1
+watchtower: 1
+refresh: 1
+modules: 1
+schisms: 1
+sardine: 1
+nipping: 1
+remarks: 1
+missile: 1
+pasture: 1
+regress: 1
+tankage: 2
+liturgy: 1
+mission: 2
+extorts: 1
+missive: 2
+anachronisms: 1
+refusal: 1
+noduled: 1
+screech: 1
+apportioned: 1
+isthmus: 1
+scribed: 1
+lookout: 2
+shellac: 1
+shortbread: 1
+sappers: 2
+repasts: 1
+persist: 1
+spotlighting: 1
+pockets: 1
+sharpen: 1
+perspex: 1
+resides: 1
+lunched: 2
+prohibited: 1
+shaving: 1
+opening: 1
+sherbet: 1
+lounged: 1
+fuzzier: 1
+orbiter: 1
+vacuity: 1
+tickled: 1
+pitbull: 1
+polycyclic: 1
+relying: 1
+thicker: 1
+waggons: 1
+prairie: 1
+repress: 1
+saviour: 1
+scowled: 1
+signers: 1
+tellers: 1
+polycotton: 1
+smeared: 1
+sleeper: 1
+lurches: 1
+sobbing: 2
+thereof: 1
+producible: 1
+taverns: 1
+theists: 1
+defenestrate: 1
+wafting: 1
+nougats: 1
+mossier: 1
+restart: 1
+slapper: 1
+lumpier: 1
+rockery: 1
+resumed: 2
+slaters: 1
+waterfront: 1
+pointed: 1
+scrotum: 1
+sketchy: 1
+wealthy: 1
+compliments: 1
+juryman: 2
+soakers: 1
+valuers: 1
+notions: 1
+lynches: 1
+tautest: 1
+physics: 1
+muscled: 1
+watched: 1
+threads: 1
+vending: 1
+unfamiliar: 1
+plovers: 1
+venders: 1
+society: 1
+specify: 1
+speckle: 1
+walkout: 1
+watches: 2
+numeric: 1
+stabbed: 1
+retyped: 1
+quailed: 1
+whalers: 1
+commonsense: 1
+wheelie: 1
+overseeing: 1
+stabber: 1
+prevent: 1
+mutated: 1
+overdid: 1
+setting: 1
+soaring: 1
+sniffly: 1
+underbelly: 1
+setters: 1
+solaces: 1
+overtakers: 1
+trachea: 1
+welcome: 1
+noxious: 1
+uncanny: 1
+undated: 1
+umbrage: 2
+sipping: 2
+programmer: 1
+wending: 1
+overfly: 1
+shorter: 1
+snifter: 1
+spender: 1
+containment: 1
+musings: 1
+showers: 1
+somalia: 1
+varsity: 1
+pounded: 1
+procure: 1
+lustily: 1
+warping: 1
+spastic: 1
+spheres: 1
+quelled: 1
+staging: 1
+quicker: 1
+pottage: 1
+tokamak: 2
+thrives: 1
+trebled: 1
+outface: 1
+softens: 1
+ruffian: 1
+quartic: 1
+quantum: 1
+steamer: 1
+porters: 2
+trebles: 1
+postbox: 1
+propels: 1
+vikings: 1
+sluiced: 1
+viewers: 1
+updates: 1
+rivulet: 1
+outcast: 1
+whiling: 7
+drastically: 1
+posters: 1
+unblinking: 1
+queries: 1
+spewing: 1
+pottery: 1
+steeper: 1
+rotates: 1
+quietly: 1
+shutter: 1
+slumber: 1
+useable: 1
+whirled: 1
+sorbets: 1
+soloing: 1
+trainers: 1
+smuggle: 1
+tricked: 1
+winding: 1
+tonally: 1
+stencil: 1
+winders: 1
+outdoor: 1
+uniform: 1
+proxies: 1
+suckers: 1
+eschatology: 1
+coordinates: 1
+wherefores: 1
+underlings: 1
+whisper: 1
+positivity: 2
+overwhelms: 1
+submits: 2
+portending: 1
+quaternary: 1
+underpants: 1
+whittle: 1
+statues: 1
+subplot: 1
+swamped: 1
+zapping: 1
+rummage: 1
+unities: 1
+overstates: 1
+visited: 1
+quitter: 1
+sunbeds: 1
+runaway: 1
+sweeter: 1
+domesticity: 1
+quarrelled: 1
+wreaked: 1
+sprites: 1
+trestle: 1
+squelch: 1
+squarer: 1
+wrecked: 1
+tonsils: 1
+stomach: 1
+subclasses: 1
+stirfry: 1
+purview: 1
+urethra: 1
+wrangle: 1
+twiddle: 2
+wreathe: 1
+tumbled: 1
+dissolution: 1
+thromboses: 1
+nuzzled: 1
+pursuit: 1
+strider: 1
+topspin: 1
+swinger: 1
+uterine: 1
+stretch: 1
+trudges: 1
+consignment: 1
+voluble: 1
+overworked: 1
+unquiet: 1
+utilise: 1
+summons: 1
+woofers: 1
+understood: 1
+wriggly: 1
+touting: 1
+striven: 1
+colostomies: 1
+tourney: 1
+sputter: 1
+stumble: 1
+strives: 1
+trotted: 1
+stowing: 2
+prudential: 1
+unwraps: 1
+succinctly: 1
+sisterhood: 1
+workday: 1
+wrested: 1
+swopped: 1
+working: 1
+surplus: 1
+wellspoken: 1
+uncertainties: 1
+properties: 1
+turnips: 1
+compromised: 1
+stutter: 1
+wrongly: 1
+typeset: 1
+distortions: 1
+situations: 1
+mutterings: 1
+protectors: 1
+landholding: 1
+usurers: 1
+contestants: 2
+steepening: 1
+artlessness: 1
+wryness: 2
+proverbial: 1
+succumbing: 1
+apprenticeships: 1
+rotational: 1
+conventicle: 1
+bacteriophage: 1
+contraction: 1
+tolerances: 2
+prospectus: 1
+provincial: 1
+bourgeoisie: 1
+unilateral: 1
+assertively: 1
+protractor: 1
+distrusting: 1
+unassuming: 1
+smothering: 1
+managements: 1
+transfused: 1
+uniformity: 1
+prosthetic: 1
+triangular: 1
+byelections: 2
+correlating: 1
+roundabout: 1
+bottlenecks: 1
+overpopulated: 1
+violinists: 1
+submission: 1
+unobliging: 1
+interpellation: 1
+counterfeited: 1
+ungoverned: 1
+subterfuge: 1
+acoustically: 1
+catastrophic: 1
+graduations: 1
+unimproved: 1
+soubriquet: 1
+unsealable: 1
+maliciously: 1
+thoughtlessly: 1
+stepmother: 1
+unrefereed: 1
+triumphalist: 1
+squeakiest: 1
+totalising: 1
+unmnemonic: 1
+malcontents: 1
+trespassed: 1
+barnstorming: 1
+triumphantly: 1
+malignantly: 1
+corporatism: 1
+unmissable: 2
+stratigraphy: 1
+whomsoever: 1
+sweepstake: 1
+ineffectual: 1
+indications: 1
+unsimplified: 1
+haberdashery: 1
+carriageways: 1
+astonishing: 1
+maintainers: 1
+stratagems: 1
+urethritis: 1
+sportswear: 1
+deliberating: 1
+unthinking: 1
+wraparound: 1
+supercooling: 1
+corruptible: 1
+striations: 1
+surgically: 1
+marchioness: 1
+supersedes: 1
+assumptions: 1
+susceptibilities: 1
+hippocampus: 1
+environmentalism: 1
+unruliness: 1
+courteously: 1
+untrammelled: 1
+evaporation: 1
+polysyllables: 1
+presentational: 1
+tunnelling: 1
+tunnellers: 1
+middleclass: 1
+frequencies: 1
+untroubled: 1
+indivisible: 1
+woolliness: 2
+surrenders: 1
+ethologists: 1
+intractability: 1
+excitations: 1
+fornicating: 2
+wristbands: 1
+temperamentally: 1
+unsterilised: 1
+tautologically: 1
+fluorescent: 1
+fecklessness: 1
+wrongdoers: 1
+illiterates: 1
+protectionism: 1
+worthwhile: 1
+typesetter: 1
+fundamental: 1
+lighthouses: 1
+officiating: 1
+impecunious: 1
+homogenates: 1
+fearlessness: 1
+faithfulness: 1
+homogeneous: 1
+unenlightened: 1
+demonstratively: 1
+foregrounding: 1
+buttonholes: 1
+readability: 1
+indoctrinates: 1
+impassioned: 2
+equivocated: 1
+homological: 1
+pronunciation: 1
+foreshadowing: 1
+uncontentious: 1
+internationalised: 1
+crystalline: 1
+autobiographical: 1
+pedestrians: 1
+unsuspecting: 1
+transactional: 1
+fascinations: 1
+alliterating: 1
+inconsiderate: 1
+extraterritorial: 1
+lilliputian: 1
+parametrise: 1
+expeditions: 1
+chivalrously: 1
+expectation: 1
+decaffeinated: 1
+acupuncturists: 1
+paraphrases: 1
+unsurprising: 1
+haemophiliac: 1
+formalisation: 1
+illustrious: 1
+integrators: 1
+prostaglandin: 1
+interceding: 1
+propositioned: 1
+meteorology: 1
+interacting: 1
+sacramental: 1
+chiropractic: 2
+tabernacles: 1
+scaremongering: 1
+sympathising: 1
+differentially: 1
+birdwatchers: 1
+observation: 2
+intentioned: 1
+existential: 1
+observatory: 1
+depreciation: 1
+multinationals: 1
+iteratively: 1
+depredations: 1
+misapplication: 1
+misanalysed: 1
+simplistically: 1
+paternalist: 1
+instantiations: 1
+invigorated: 1
+housekeeper: 1
+intricacies: 2
+superstructure: 1
+hottempered: 1
+plagiarised: 1
+pedagogically: 1
+sandcastles: 1
+reflectance: 1
+earthshaking: 1
+regenerates: 1
+incandescently: 1
+contraventions: 1
+crystallographic: 1
+participate: 1
+everlastingly: 1
+tumultuously: 1
+recommended: 1
+unforgettable: 1
+deteriorated: 1
+furthermore: 1
+miscounting: 1
+miserliness: 1
+incorruptible: 1
+introducing: 1
+mismatching: 1
+longawaited: 1
+spiritualised: 1
+reclassification: 1
+disaffection: 1
+insultingly: 1
+reliability: 1
+expropriate: 2
+anthropomorphising: 1
+scatterings: 1
+synthesising: 1
+salesperson: 1
+sanctifying: 1
+exhibitioners: 1
+exhibitionist: 1
+philologist: 1
+schismatics: 1
+patronising: 1
+registrable: 1
+psychoanalyst: 1
+recruitment: 1
+circumscribe: 1
+shamanistic: 1
+decontamination: 1
+nervousness: 1
+selfdefence: 1
+shamelessly: 1
+electrically: 1
+schoolmates: 1
+anisotropies: 1
+unsuitableness: 1
+overcomplexity: 1
+psychokinesis: 1
+rationalist: 1
+overemphasised: 1
+mistreating: 1
+pulverisation: 1
+scintillate: 1
+directorates: 1
+psychotically: 2
+reinstating: 1
+pincushions: 1
+anticipating: 1
+wholesomeness: 1
+repatriated: 1
+sickeningly: 1
+afforestation: 1
+inhomogeneous: 1
+righthander: 1
+personality: 1
+perspicuous: 1
+sidetracked: 1
+retardation: 1
+hearttoheart: 1
+archaeologists: 1
+constitutional: 1
+outperforming: 2
+emasculating: 1
+concatenated: 2
+metabolically: 1
+telegraphed: 1
+marginalisation: 1
+disassembler: 1
+discriminant: 1
+hypocrisies: 1
+chemotherapeutic: 1
+discontented: 1
+remonstrate: 1
+resentfully: 1
+oscillation: 1
+geomagnetism: 1
+haematological: 1
+oscillatory: 1
+opportunistically: 1
+telephonist: 1
+telescoping: 1
+imperfections: 1
+conciliatory: 1
+respecified: 1
+reproachful: 1
+reservation: 1
+confectioner: 1
+reshuffling: 1
+adelaide: 1
+abjectly: 1
+backrest: 1
+ablating: 1
+ablation: 1
+reprojected: 1
+sightlessly: 1
+accurate: 1
+agaragar: 1
+abetting: 1
+uninterrupted: 1
+bedcover: 1
+bandpass: 1
+selfdestructing: 1
+philanthropist: 1
+calendar: 1
+impassiveness: 1
+balmoral: 1
+deceases: 1
+abnormal: 1
+spaceflight: 1
+banknote: 1
+begonias: 1
+policewoman: 1
+appreciative: 1
+chaining: 1
+dactylic: 1
+blackest: 1
+decoding: 1
+cheapest: 1
+agitated: 1
+amalgams: 1
+theologians: 2
+cannoned: 1
+capitals: 1
+charcoal: 1
+collaterally: 1
+diabolic: 1
+baptisms: 1
+adoption: 1
+chemical: 1
+churlishness: 1
+degraded: 1
+chanting: 1
+caterers: 1
+careworn: 1
+catholic: 1
+besieged: 1
+actuates: 1
+demagogy: 1
+demander: 2
+fandango: 1
+diagnose: 1
+battling: 1
+tremulousness: 1
+dateline: 1
+deniable: 1
+chattels: 1
+fanciers: 1
+conditioning: 1
+effigies: 1
+galactic: 1
+casually: 1
+bevelled: 1
+resubmitted: 1
+scoutmaster: 1
+deleting: 1
+deletion: 1
+habitual: 1
+coachman: 1
+boisterously: 1
+retrievable: 1
+headlamp: 1
+feathery: 1
+betokens: 1
+delivery: 2
+headlong: 1
+boarding: 1
+revivalists: 1
+brackish: 1
+deriders: 2
+ascended: 1
+bettered: 1
+chipmunk: 2
+retributive: 1
+fatalist: 1
+handcart: 1
+clasping: 1
+falsetto: 1
+coddling: 1
+cochlear: 1
+hearable: 1
+scrummaging: 1
+educated: 1
+fathered: 1
+ciphered: 1
+earthing: 1
+felicity: 1
+deplored: 1
+bismarck: 1
+deplores: 1
+brandies: 1
+antacids: 1
+farmings: 1
+handrail: 1
+crackers: 1
+heckling: 1
+fellatio: 1
+fatigues: 1
+bogeyman: 1
+effusive: 1
+decentralised: 1
+professorships: 1
+chugging: 1
+hairiest: 1
+derisory: 1
+altering: 2
+heathers: 1
+codeword: 1
+devilled: 1
+blondest: 1
+detracts: 1
+choosers: 1
+boldness: 1
+gendered: 1
+elective: 1
+bubbling: 1
+fleecing: 1
+heaviest: 2
+chortled: 1
+bridging: 1
+cribbage: 1
+coercion: 1
+geodesic: 1
+bollards: 1
+briefest: 1
+bluffing: 1
+annually: 1
+annotate: 1
+disarmed: 1
+comedian: 1
+dogfight: 1
+elements: 1
+hideaway: 1
+fictions: 1
+bookcase: 1
+financed: 1
+tightlipped: 1
+hatchway: 1
+bivouacs: 1
+detritus: 1
+budgeted: 1
+giggling: 1
+coldness: 1
+bluemoon: 1
+audition: 1
+broaches: 1
+finalist: 1
+concepts: 1
+finality: 1
+hardwood: 1
+awaiting: 1
+collared: 1
+broadest: 1
+garrison: 1
+dreamers: 1
+gassiest: 1
+flapping: 1
+drafters: 1
+garotted: 1
+concocts: 1
+destroys: 1
+flickers: 1
+hellenic: 1
+atlantis: 1
+booklets: 1
+broadway: 1
+disguise: 1
+concords: 1
+politicians: 1
+lacework: 1
+jangling: 1
+leaching: 3
+dribbler: 1
+clothing: 1
+macaroon: 1
+kedgeree: 1
+buckskin: 1
+comrades: 1
+hayfield: 1
+flawless: 1
+disgusts: 1
+compares: 1
+answered: 1
+divinest: 1
+fleshier: 1
+highness: 1
+compiler: 1
+escaping: 1
+apostles: 1
+criminal: 1
+complete: 1
+elisions: 1
+clotting: 1
+gemstone: 1
+aspirate: 1
+aspirant: 1
+couching: 1
+contains: 1
+armourer: 1
+closures: 1
+boundary: 1
+foggiest: 1
+dissolve: 1
+assigned: 1
+flocking: 1
+ferrying: 1
+commuted: 1
+engulfed: 1
+cresting: 1
+boosting: 1
+bunching: 1
+contends: 1
+bristles: 1
+composes: 1
+encrypts: 1
+illuminations: 1
+restorative: 1
+epigraph: 1
+freehand: 1
+floating: 1
+converge: 1
+convince: 1
+conglomerate: 1
+hexagons: 1
+freckles: 1
+legality: 1
+etchings: 1
+conquers: 1
+drilling: 1
+emitters: 1
+fishwife: 1
+jawbones: 1
+arousing: 1
+brothels: 2
+drinkers: 1
+enriches: 1
+doubling: 1
+prayerfully: 1
+brothers: 1
+fitments: 1
+drivable: 1
+dowagers: 1
+contours: 2
+botswana: 1
+hoarding: 1
+fondling: 1
+glinting: 1
+libelled: 1
+mandrake: 1
+enthalpy: 1
+episodes: 1
+atropine: 1
+igniting: 1
+escorted: 1
+maintain: 1
+brownish: 1
+grammars: 1
+crowbars: 1
+crueller: 1
+unbalancing: 1
+driveway: 1
+emulator: 1
+countess: 1
+frighted: 1
+commemorates: 1
+marching: 1
+evaluate: 1
+mainstay: 1
+quadrangles: 1
+florists: 1
+grateful: 1
+downfall: 1
+inflames: 1
+costumes: 1
+especial: 1
+departmentally: 1
+envelops: 1
+forelegs: 1
+enthrone: 1
+incubate: 1
+laughter: 1
+forelock: 1
+marginal: 1
+envisage: 1
+infested: 1
+crowning: 1
+golgotha: 1
+equalled: 1
+grimaced: 1
+foreseen: 1
+mammoths: 1
+entrants: 1
+enquires: 2
+conformation: 1
+marigold: 1
+footages: 2
+commentators: 1
+foreskin: 1
+shopkeeping: 1
+nearness: 1
+dourness: 1
+infrared: 2
+lengthen: 1
+cuteness: 1
+murderously: 1
+videotaping: 1
+exciting: 1
+indorsed: 1
+downward: 1
+excluded: 1
+eventing: 1
+entropic: 1
+glossing: 1
+downwind: 1
+entwined: 1
+marriage: 1
+lightens: 1
+entwines: 1
+likelier: 1
+currants: 1
+comparatives: 1
+kilobits: 1
+necrosis: 1
+formulae: 1
+fizziest: 1
+radiated: 1
+radially: 1
+erosions: 1
+honeydew: 1
+fortieth: 1
+pedantry: 1
+linchpin: 1
+killjoys: 1
+ulcerations: 1
+microbic: 2
+italians: 1
+irreproachable: 1
+estimate: 1
+grippers: 1
+parables: 1
+palpable: 1
+greyness: 1
+infusing: 1
+parading: 1
+implicit: 2
+mattered: 1
+agglutinative: 1
+pedestal: 1
+espresso: 1
+homology: 1
+paintbox: 1
+pairings: 1
+funerary: 1
+saddling: 1
+shoplifting: 1
+gossamer: 1
+marrying: 1
+linesmen: 1
+mercuric: 1
+iniquity: 2
+mildness: 1
+moccasin: 1
+jiujitsu: 2
+inkwells: 1
+parapets: 2
+honoured: 1
+guessing: 1
+foursome: 1
+linguist: 1
+nastiest: 1
+frosting: 1
+parasite: 1
+peephole: 1
+spectacular: 1
+nighties: 1
+reactive: 1
+redefine: 1
+milepost: 1
+peculiar: 1
+parlance: 1
+implying: 1
+intimacy: 1
+imported: 1
+cypriots: 1
+horsefly: 2
+penchant: 1
+internal: 1
+redcoats: 1
+militias: 1
+horridly: 1
+receives: 1
+hothouse: 1
+ranchers: 1
+placards: 1
+humanist: 1
+intermix: 1
+realised: 1
+grumbler: 1
+improver: 1
+sadistic: 1
+drystone: 1
+rainiest: 1
+seceding: 1
+ramifies: 1
+seaborne: 1
+tackiest: 1
+commiserated: 1
+instance: 1
+pathless: 1
+pickling: 1
+scarcity: 1
+houseful: 1
+explored: 1
+seagoing: 1
+grouting: 1
+crystallising: 1
+juiciest: 1
+rearming: 1
+mesozoic: 1
+rarefied: 1
+scavenge: 1
+noblemen: 1
+gunsight: 1
+scheming: 1
+grumpily: 1
+refining: 1
+invoking: 1
+tachyons: 1
+invokers: 1
+hungrily: 1
+mintiest: 1
+scarring: 1
+obtruded: 2
+gunshots: 1
+ramparts: 1
+salesman: 1
+sameness: 1
+refolded: 1
+released: 1
+reducers: 1
+pastille: 1
+shadiest: 1
+remedied: 1
+oiliness: 1
+ravaging: 1
+recovery: 1
+plaiting: 1
+patterns: 1
+sanction: 1
+permeate: 1
+unbelievers: 1
+parrying: 1
+sedition: 2
+plantain: 1
+passport: 1
+secreted: 1
+longlost: 1
+recruits: 1
+exulting: 1
+tailless: 1
+salvaged: 1
+repealed: 1
+overdubbing: 1
+relaxing: 1
+oldtimer: 1
+perfumes: 1
+seasoner: 1
+richness: 1
+refunded: 1
+relented: 1
+transportability: 1
+huskiest: 1
+shouldering: 1
+tameness: 1
+undefinable: 1
+repeated: 1
+payphone: 1
+molested: 1
+talkings: 1
+congruential: 1
+tailwind: 1
+speculators: 1
+platonic: 1
+muddling: 1
+rehoused: 1
+isotopes: 1
+sickened: 1
+loosened: 1
+scribble: 1
+ravingly: 1
+shamrock: 2
+rheology: 1
+procreating: 1
+muchness: 1
+isotropy: 1
+security: 1
+hurtling: 1
+pitching: 1
+loveless: 1
+mudflows: 1
+distillation: 1
+righting: 1
+mufflers: 2
+rheostat: 1
+rightful: 1
+scorcher: 1
+reissues: 1
+removals: 1
+preamble: 1
+practise: 1
+prohibition: 1
+renovate: 20
+thematic: 1
+monopoly: 1
+tracheotomy: 1
+reprieve: 1
+predicts: 1
+jumpsuit: 1
+stabilisers: 1
+morphine: 1
+serenely: 1
+teletext: 1
+praising: 2
+spaceage: 1
+metamorphoses: 1
+overloading: 1
+rigorous: 1
+retreads: 1
+mortally: 1
+silences: 1
+tavernas: 1
+theistic: 1
+nudities: 2
+reproofs: 2
+scowling: 1
+ringside: 2
+sparklingly: 1
+unfailingly: 1
+scullery: 2
+noontide: 1
+requited: 2
+shredder: 1
+satsumas: 1
+resolver: 1
+rockiest: 1
+shipping: 1
+thievery: 1
+tastiest: 1
+tetchily: 1
+vaseline: 1
+wainscot: 1
+weaselly: 1
+shrapnel: 1
+unabated: 1
+mounting: 1
+temporal: 1
+revolved: 1
+sneering: 1
+plumbers: 1
+weaponry: 1
+robotics: 1
+simpered: 1
+primates: 1
+snarling: 1
+smarting: 1
+shrilled: 1
+timidity: 1
+sniffles: 1
+smelters: 1
+taxonomy: 1
+prodigal: 1
+pollutes: 1
+vibrates: 1
+wheeling: 1
+olympiad: 1
+overpayment: 1
+staccato: 1
+riverine: 1
+tinkered: 1
+terrorising: 1
+pressing: 1
+overcome: 1
+riveting: 1
+welcomer: 1
+overdoes: 1
+proffers: 1
+shooters: 1
+overland: 1
+uncaring: 1
+tertiary: 1
+optimism: 1
+shotguns: 1
+powdered: 1
+slippers: 1
+mutineer: 1
+producer: 1
+trackers: 1
+overhung: 1
+estrangements: 1
+priority: 1
+overlook: 1
+lyricist: 1
+uneasier: 2
+sirloins: 1
+rubidium: 1
+vesicles: 1
+treading: 1
+thuggish: 1
+warranty: 1
+vignette: 3
+stadiums: 1
+wellread: 1
+progress: 1
+polypeptide: 1
+stagings: 1
+victoria: 1
+mutinous: 1
+solidify: 1
+promenaders: 1
+overrule: 1
+overstep: 1
+positron: 1
+populism: 1
+subclass: 1
+traditional: 1
+quarries: 1
+possibly: 1
+sombrely: 1
+splashed: 2
+porthole: 1
+warriors: 1
+quiesced: 1
+songbook: 1
+splashes: 1
+shunting: 1
+unlacing: 1
+windbags: 1
+prosaist: 2
+stalking: 1
+proteges: 1
+slouches: 2
+starches: 1
+outfield: 1
+uncorked: 1
+prompter: 1
+somewhat: 1
+treatise: 1
+purchase: 2
+smudging: 1
+slopping: 1
+outflank: 3
+punctual: 1
+throwers: 1
+provides: 1
+winching: 1
+steeping: 1
+steepest: 1
+suchlike: 1
+encrustation: 1
+stapling: 1
+skydived: 1
+electrotechnical: 1
+stenches: 1
+spiteful: 2
+sublimes: 1
+skydives: 1
+transept: 1
+straightening: 1
+nutshell: 1
+violator: 1
+trickier: 1
+proximal: 1
+sufferer: 1
+progressing: 1
+whiskers: 1
+subgroup: 1
+snuffing: 1
+suckling: 1
+prowlers: 1
+trickily: 2
+virginal: 1
+treetops: 1
+sugaring: 2
+yielding: 1
+vestment: 1
+pureness: 1
+winnable: 1
+unevenly: 1
+thruster: 1
+startled: 1
+subsides: 1
+rounding: 1
+slowpoke: 1
+skylight: 1
+roundish: 1
+travesty: 1
+slumping: 1
+emphatically: 1
+swearing: 3
+prurient: 1
+sweating: 1
+unplaced: 1
+snoozing: 2
+spittoon: 1
+stenosis: 1
+undertaking: 1
+purities: 1
+spooling: 1
+swamping: 1
+stingier: 2
+sonorous: 2
+sternest: 1
+zanzibar: 1
+stockcar: 1
+quotable: 1
+outweigh: 1
+sweetest: 1
+distribution: 1
+withdraw: 1
+supportability: 1
+woefully: 1
+unshaved: 1
+purposes: 1
+torments: 1
+strainer: 1
+wreckers: 1
+urethral: 1
+unweaned: 1
+stricken: 1
+spyglass: 1
+solemnities: 1
+untimely: 1
+sunburns: 1
+swimming: 1
+rumpuses: 1
+stringer: 1
+unannounced: 1
+utilised: 2
+strewing: 2
+stresses: 1
+spurring: 1
+towpaths: 1
+swirling: 1
+torturer: 1
+stumbles: 1
+unwisely: 1
+strongly: 1
+quickwitted: 1
+contemplates: 1
+dolphinarium: 1
+convectional: 3
+workbook: 1
+titillation: 1
+polystyrene: 1
+stuntman: 1
+truthful: 1
+unclassifiable: 1
+surround: 1
+survived: 1
+workshop: 1
+prosecuting: 1
+workroom: 2
+typified: 1
+subdivision: 1
+typeless: 1
+worthier: 1
+typifies: 1
+stutters: 1
+standpoints: 1
+contingently: 1
+uncompleted: 1
+promotional: 1
+malefactions: 4
+structuralists: 1
+popularisation: 1
+proselytise: 1
+imaginations: 1
+youthful: 1
+shuttlecock: 1
+humanitarianism: 1
+prospectors: 1
+wineglasses: 1
+unoriginality: 1
+transcripts: 1
+luxuriantly: 1
+steelworker: 1
+uncrossable: 1
+obstructionism: 1
+inconsequential: 1
+incandescent: 1
+provisional: 1
+purgatorial: 1
+specialisations: 1
+transistors: 1
+overproduction: 1
+roundabouts: 1
+spiritually: 1
+contribution: 1
+methodologies: 1
+prostitutes: 1
+subscribers: 1
+magnetometer: 1
+interactional: 1
+paralytically: 1
+interactively: 1
+puritanical: 1
+entanglement: 1
+unobservant: 1
+unnaturally: 1
+inactivation: 1
+authoritarians: 1
+corroborates: 1
+recapitulates: 2
+unreflected: 1
+tremulously: 1
+subversives: 2
+outnumbered: 1
+trespassers: 1
+ruminations: 1
+freestanding: 1
+soundlessly: 1
+grandmasters: 2
+unscrambles: 1
+countability: 1
+impoverishing: 1
+withholding: 1
+unpractised: 1
+observational: 1
+affectionately: 1
+undernourished: 1
+voraciously: 1
+lifeanddeath: 1
+unthinkable: 1
+astronomically: 1
+strategists: 1
+counterfoils: 1
+trombonists: 1
+greengrocery: 1
+neurologically: 3
+unoptimised: 1
+stonewalled: 1
+greatgrandchildren: 1
+superintend: 1
+environmentally: 1
+indirectness: 1
+kidneyshaped: 1
+supervision: 1
+conspiratorially: 1
+pyrotechnic: 1
+courtmartial: 1
+singularisation: 1
+truculently: 1
+necessitated: 1
+necessitates: 1
+workability: 1
+ethnocentric: 1
+demonstratives: 1
+synchronous: 1
+synchrotron: 1
+automorphism: 1
+peacefulness: 1
+forgetmenots: 1
+woodworking: 1
+measurements: 1
+incriminates: 1
+lookingglasses: 1
+inarticulate: 1
+suppressors: 1
+sustainable: 1
+supportable: 1
+ethnological: 1
+superintendents: 1
+misinterpretation: 1
+cultivations: 1
+sympathiser: 1
+phrenologically: 1
+contemporaneous: 1
+perpendiculars: 1
+deleteriously: 1
+symphonists: 1
+symbiotically: 1
+irrecoverable: 1
+palaeolithic: 1
+inauspicious: 1
+workstation: 1
+synthesised: 1
+familiarising: 1
+formlessness: 1
+symptomless: 1
+participating: 2
+butterscotch: 1
+typewriting: 1
+nebulousness: 1
+simplifications: 1
+typewritten: 1
+officerships: 1
+perfectionism: 1
+exemplifying: 1
+electrochemical: 1
+holistically: 1
+unstretchable: 1
+homoeopathic: 1
+localisation: 1
+recrimination: 1
+industrially: 1
+illuminating: 1
+electromagnetic: 1
+contradictorily: 1
+cryptography: 1
+disproportionately: 1
+omnidirectional: 1
+irrepressibly: 1
+undrinkability: 1
+paragraphing: 1
+functionless: 2
+dimensionality: 1
+malnourishment: 1
+metaphysical: 2
+expropriation: 1
+disaffiliation: 2
+expostulation: 1
+intuitiveness: 1
+insecurities: 1
+recalculated: 1
+misinterprets: 1
+fatheadedness: 1
+breathtakingly: 1
+irresponsibly: 1
+uncontrollable: 1
+impoliteness: 1
+expectorated: 1
+exhortations: 1
+multilateralism: 1
+intellectual: 1
+beatifications: 1
+exquisiteness: 1
+misremembered: 1
+uptotheminute: 1
+pantechnicon: 1
+intermediary: 1
+interestedly: 1
+deprecatingly: 1
+reimbursement: 1
+eigenfunction: 2
+codifications: 1
+improvements: 1
+menstruation: 1
+hypochondriacal: 1
+realisations: 1
+interpreters: 1
+minesweepers: 1
+intersperses: 3
+unconstitutionally: 1
+demonstrators: 1
+ludicrousness: 1
+shamelessness: 1
+informativeness: 1
+dermatologist: 1
+insufficient: 2
+perpendicular: 1
+plagiarising: 1
+misanthropic: 1
+invisibility: 1
+logistically: 1
+participates: 1
+unenthusiastic: 1
+rationalities: 1
+deterministic: 1
+philatelists: 1
+sophistication: 1
+reorganisations: 1
+redistribute: 1
+embellishment: 1
+partitioning: 1
+platitudinous: 1
+piezoelectric: 1
+pleasantness: 1
+expropriated: 1
+irreverently: 1
+irresolvable: 1
+familiarisation: 1
+misplacement: 1
+teleconference: 1
+insurrection: 1
+hydrographic: 1
+hydrographer: 1
+instrumental: 1
+phonologically: 1
+technicality: 1
+disembarkation: 1
+lonesomeness: 1
+isotropically: 2
+circumscribed: 1
+selfsacrifice: 1
+lookingglass: 1
+bloodlessness: 1
+disappointments: 1
+practicalities: 1
+systematisation: 1
+personalising: 1
+selfrestraint: 2
+coldbloodedly: 1
+suggestiveness: 1
+reinvestment: 1
+perseverance: 1
+phoneticians: 1
+selfportraits: 1
+occupationally: 1
+repercussion: 1
+sidetracking: 1
+disharmonious: 1
+prefabricated: 1
+disfigurement: 1
+unintellectual: 1
+sledgehammers: 1
+precariousness: 1
+rhododendrons: 1
+discriminants: 1
+rhetoricians: 1
+ordinariness: 1
+rightwingers: 1
+practitioners: 1
+disassociating: 1
+musculoskeletal: 1
+nonessentials: 1
+electrochemically: 1
+monopolising: 1

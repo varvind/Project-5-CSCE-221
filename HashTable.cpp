@@ -4,7 +4,7 @@
 
 // default constructor
 HashTable::HashTable() {
-	capacity = 100000000;
+	capacity = 100000;
 }
 
 // destructor
@@ -20,6 +20,15 @@ int HashTable::hash(std::string s) {
 		hash = 2 *(hash) +  int(s.at(i));
 	}
 	int index = hash % capacity;
+	return index;
+}
+int HashTable::hashProbing(std::string s) {
+	int hash = 0;
+	int n = s.size();
+	for(int i = 0; i < n; i++) {
+		hash = 2 *(hash) +  int(s.at(i));
+	}
+	int index = hash;
 	return index;
 }
 
