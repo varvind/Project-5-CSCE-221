@@ -2,7 +2,7 @@
 #define DOUBLEHASHING_H
 
 #include "HashTable.h"
-
+#include <vector>
 
 // Double hashing hash table class
 class DoubleHashTable : public HashTable {
@@ -11,6 +11,7 @@ class DoubleHashTable : public HashTable {
     int secondHash(std::string s);
 
     // TODO: insert additional variables here
+    pair* table;
     
     public: 
     DoubleHashTable();
