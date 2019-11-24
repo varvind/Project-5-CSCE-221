@@ -15,12 +15,13 @@ DoubleHashTable::~DoubleHashTable() {
 // inserts the given string key
 void DoubleHashTable::insert(std::string key, int val) {
 	for(int i = 0; i < capacity; i++) {
-		int index = hash(key) + i * (secondHash(key));
+		int index = hash(key) + (i * (secondHash(key)));
+		
 		if(table[index].key == "") {
 			pair temp;
 			temp.key = key;
-			temp.val = temp.val;
-			table[index];
+			temp.val = 1;
+			table[index] = temp;
 			break;
 		}
 		if(table[index].key == key) {
@@ -53,9 +54,11 @@ int DoubleHashTable::remove(std::string key) {
 int DoubleHashTable::get(std::string key) {
 
 	for(int i = 0; i < capacity; i++) {
-		int index = hash(key) + i * (secondHash(key));
+		int index = hash(key) + (i * (secondHash(key)));
+		
 		if(table[index].key == key) {
-			return index;
+			
+			return table[index].val;
 		}
 		if(table[index].key == "") {
 			return 0;

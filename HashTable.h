@@ -18,7 +18,6 @@ class HashTable{
 	int hashProbing(std::string s);
 	int capacity;
 	// TODO: insert necessary variables for your hash table here
-	int HashTable::hash2(std::string s);
 	public: 
 	HashTable();
 	~HashTable(); 
