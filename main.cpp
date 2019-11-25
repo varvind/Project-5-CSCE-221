@@ -10,6 +10,8 @@ using namespace std;
 
 
 int main() {
+
+    //testing for all the different hash functions
     ProbingHashTable* test = new ProbingHashTable();
     string filename = "dictionary.txt";
     //test->printAll(filename);
