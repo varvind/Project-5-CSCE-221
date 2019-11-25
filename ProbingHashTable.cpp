@@ -14,9 +14,9 @@ ProbingHashTable::~ProbingHashTable() {
 void ProbingHashTable::insert(std::string key, int val) {
 	 
 	
-		 
+	int hash = hashProbing(key); 
 	for(int i = 0; i < capacity; i++) {
-		int j = (hashProbing(key) + i) % capacity;
+		int j = (hash + i) % capacity;
 		if(table[j].key == "") {
 			table[j].key = key;
 			table[j].val = 1;

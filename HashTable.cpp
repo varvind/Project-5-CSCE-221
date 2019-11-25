@@ -4,7 +4,7 @@
 
 // default constructor
 HashTable::HashTable() {
-	capacity = 10000000;
+	capacity = 10000079;
 }
 
 // destructor
